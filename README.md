@@ -15,6 +15,8 @@ Notes](https://github.com/reactjs/core-notes).
 
 #### June
 
+* [June 8](https://github.com/translate/core-notes/blob/master/2016-06/june-8.md)
+  ([discuss](https://github.com/translate/core-notes/pull/3))
 * [June 1](https://github.com/translate/core-notes/blob/master/2016-06/june-1.md)
   ([discuss](https://github.com/translate/core-notes/pull/2))
 
